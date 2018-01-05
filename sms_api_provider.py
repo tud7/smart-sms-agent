@@ -1,5 +1,6 @@
 '''
 Author: Tu Duong
+Copyright © 2018 Tu Duong
 '''
 
 import os
