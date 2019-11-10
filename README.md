@@ -1,6 +1,11 @@
 # smart-sms-agent
-Copyright © 2018 Tu Duong
+Copyright © 2018, 2019 Tu Duong
 
+## Install the SMS API Provider
+### Twilio
+```
+pip install twilio
+```
 ## The SMSAgent Abstraction Layer
 
 SMSAgent is an API that abstract out all the different SMS providers
