@@ -1,8 +1,0 @@
-{
-    "SMS_API_Provider" : "Twilio",
-    "Authentication" : {
-        "account_id" : "",
-        "auth_token" : "",
-        "from_number": ""
-    }
-}
