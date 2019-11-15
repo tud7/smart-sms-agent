@@ -50,7 +50,7 @@ def send_msg(to_number, message):
 
 if __name__== "__main__":
 
-    parser = argparse.ArgumentParser(description='SMS Agent')
+    parser = argparse.ArgumentParser(description='Smart SMS Agent')
     parser.add_argument('to_number',          help='phone number of the person you want to send the message, start with +(country) (e.g.: +12223334444)')
     parser.add_argument('message', nargs='+', help='the text message that you want to send in double quote (e.g. " Hello World")')
 
